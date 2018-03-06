@@ -1,6 +1,6 @@
 ## Part 0: Import a module that's not in a package
 
-By default, any module in the same directory as the `__main__` 
+By default, any module in the same directory as the function named `__main__` 
 can be imported directly without being part of a package.
 
 In this section, add an import statement to the `main.py` file
