@@ -18,8 +18,8 @@ Something like:
 
 ```
 Please enter your name.
-Bax
-hello, Bax.
+Mya
+hello, Mya.
 and
-goodbye, Bax.
+goodbye, Mya.
 ```
