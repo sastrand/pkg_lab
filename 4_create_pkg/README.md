@@ -3,7 +3,7 @@
 Importing evey name from a package is a bad idea almost all the time, but it's useful to know how it works
 and how to limit its power in your own package.
 
-So, in this exercise, add an `__init__.py` file to the `driving_pkg` directory with the `__all__` special variable set so that every name in the `driving_pkg` namespace will be imported except those in the module `bad_module`.
+In this exercise, add import statements to `main.py` and an `__init__.py` file to the `driving_pkg` directory that will import the names in every module of the `driving_pkg` namespace except those in the module `bad_module`.
 
 ### Expected output
 
