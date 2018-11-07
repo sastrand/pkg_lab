@@ -2,7 +2,9 @@
 
 A package is a directory of modules that the interpreter manages as a group under a single name.
 
-Add an `__init__.py` file to the `driving_pkg` directory so that the code in `main.py` will run.
+Add an `__init__.py` file to the `driving_pkg` directory to make `driving_pkg` a package.
+
+
 
 ### Expected output
 
