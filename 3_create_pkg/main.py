@@ -3,9 +3,7 @@
 # You will need to import each module in driving_pkg separately
 # with an alias
 
-from driving_pkg import canada as canadian_distances
-from driving_pkg import drt as distance_rate_time
-from driving_pkg import mpg as miles_per_gallon
+# [Add import statement(s) here]
 
 if __name__ == "__main__":
     strs = {

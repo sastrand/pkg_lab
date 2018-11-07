@@ -1,7 +1,7 @@
 # import the hello and bye functions from the salutations module
 # with the import syntax to make this code run
 
-from salutations import hello, bye
+# [Add import statement(s) here]
 
 
 def get_name():

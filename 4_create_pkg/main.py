@@ -2,9 +2,7 @@
 # and import statment(s) using the `import *` 
 # syntax that will allow the following code will run
 
-from driving_pkg.canada import *
-from driving_pkg.drt import *
-from driving_pkg.mpg import *
+# [Add import statement(s) here]
 
 if __name__ == "__main__":
     strs = {

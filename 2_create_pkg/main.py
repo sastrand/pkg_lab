@@ -1,7 +1,7 @@
-# add an __init__.py file to driving_pkg so that
-# the following code will run
+# add an __init__.py file to driving_pkg and
+# import statement(s) so that the following code will run
 
-from driving_pkg import canada, drt, mpg
+# [Add import statement(s) here]
 
 
 if __name__ == "__main__":
